@@ -1,13 +1,11 @@
-# color_convert
+# color-convert
 
-Color converter — hex, RGB, HSL, HSV, CMYK
+Color space converter (RGB, HSL, HSV, CMYK, Hex).
+
+Zero dependencies. Python 3.8+.
 
 ## Usage
 
 ```bash
 python3 color_convert.py --help
 ```
-
-## License
-
-MIT
