@@ -1,6 +1,6 @@
-# color-convert
+# color_convert
 
-Convert between color spaces (RGB, HSL, HSV, HEX, CMYK)
+Color converter — hex, RGB, HSL, HSV, CMYK, named colors
 
 ## Usage
 
@@ -8,4 +8,12 @@ Convert between color spaces (RGB, HSL, HSV, HEX, CMYK)
 python3 color_convert.py --help
 ```
 
-Zero dependencies. Python 3.8+.
+## Features
+
+- Single file, zero dependencies
+- Python 3.8+ compatible
+- CLI interface
+
+## License
+
+MIT
